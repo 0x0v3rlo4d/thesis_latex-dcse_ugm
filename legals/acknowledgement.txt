@@ -1,0 +1,17 @@
+
+Ketentuan mengenai lisensi hanya berlaku untuk template. 
+Dokumen yang dibuat dengan menggunakan template tersebut sepenuhnya menjadi 
+milik penulis dan dapat didistribusikan sesuai dengan keperluan masing-masing. 
+Setiap template baru yang dibuat dari template ini harus mengikuti aturan 
+yang tertera dalam template_license.txt.
+
+Template ini diturunkan dari template thesis untuk mahasiswa Universitas Indonesia yang dibuat oleh [Andreas Febrian, Lia Sadita, Fahrurrozi Rahman, Andre Tampubolon, dan  Erik Dominikus] dengan penyesuaian untuk digunakan oleh mahasiswa Departemen Ilmu Komputer dan Elektronika (DIKE) / Department of Computer Science and Electronics (DCSE), Universitas Gadjah Mada (UGM).
+
+Penyusun template untuk digunakan oleh kalangan DCSE UGM:
+Muhammad Mada Ibrahim
+
+Kontributor:
+ - 
+ - 
+ -  
+ - 
